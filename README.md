@@ -30,25 +30,81 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ITrF3qt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Intake, this is where end users submit a ticket. As seen, there's a tab in the picture which has the page open for help desk staff to login & handle tickets. (Obviously, it would not be this way, but the take away is that end users have their own site, http://localhost/osTicket/, to submit tickets).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8Vc8ICh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Two tickets submitted by Gina Gahlic, an end user.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/JUrRBTE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+An agent/helpdesk associate, Vinny Veal, has logged on & can see the open tickets. We'll focus on the most critical ticket here. It's currently unassigned & listed as a normal priority, which certainly requires a higher priority.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/JJKNCLz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+At this point a Queue Manager would be reviewing these tickets to make sure that their settings are proper. This is what they see as they're changing the priority level. Here the priority is raised, and a brief comment is added.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/U83OC1k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we see the ticket being assigned along with a brief message. Communication is key!
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/lU6sOCP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here's a view of the updated ticket. Next, we'll see how it looks from the helpdesk portal.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2Y80wCR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is what the helpdesk agents portal displays after the changes.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/FcMCKMt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Again, we have additional communication as the ticket is being worked on.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/aJcPYuD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+At last we have the resolution. The issue has been addressed, communication was ongoing, brief and professional.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TTElZXs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The ticket is now closed and moved to the closed tickets category.
 </p>
 <br />
